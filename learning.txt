@@ -1,0 +1,1 @@
+So far I have learnt about how to fork a repo into my local machine and how to clone a repo .
